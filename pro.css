@@ -1,0 +1,172 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    /* background-color: aliceblue; */
+    
+}
+nav{
+    padding: 0;
+    background-color: #1798b4;
+}
+.form-inline{
+    padding-top: 2.5vh;
+    margin-left: 20vw;
+}
+main {
+    /* padding-top: 3vw; */
+    /* background-image: url("background.jpg"); */
+    height: auto;
+}
+.form-control{
+    /* text-align: right; */
+    margin-top: 1vh;
+    
+    height: 4.5vh;
+    
+}
+.btn{
+    padding: 0 1vw 0 1vw;
+    height: 5vh;
+    margin: 1vh 0.5vw 0 0.5vw;
+    background-color: white;
+    
+}
+.fp{
+    font-size: 1vh;
+    height: 0.5vh;
+}
+.fu{
+    padding: 0;
+    margin-left: 10vw;
+}
+.pas{
+    margin-left: 25vw;
+    
+}
+.pas a{
+    color: black;
+    text-decoration: none;
+}
+.tag{
+    color: black;
+    margin-left: 5vw;
+    margin-top: 3vh;
+}
+.red {
+    /* width: 15vw; */
+    /* padding: 2%; */
+    display: flex;
+    justify-content: space-between;
+    /* background-color: peru; */
+    margin: .5vh .5vw;
+    padding: 2vw;
+}
+
+.card  {
+    display: flex;
+    justify-content: center;
+    /* padding: 2vw; */
+}
+.card img{
+    align-items: center;
+    /* margin: 2vw; */
+    /* padding: 2vw; */
+    height: 20vw;
+    width: 20vw;
+    border: 1px solid peachpuff;
+    transition: all 0.5s;
+}
+.card img:hover {
+    border: 3px solid black ;
+    
+    
+}
+    /* width: 12vw;
+    align-items: center;
+    padding: 1vh 1vw;
+    border: .1vh solid black;
+    background-color: peachpuff;
+    height: 65vh;
+}
+}
+.card img{
+    align-items: center;
+    height: 25%;
+    width: 17vw;
+    border: .5vw solid black;
+}
+
+/* .card img:hover {
+    width: 12.5vw;
+    /* border: 1px solid black; */
+    /* padding: 0; */
+/* } 
+
+.d-block {
+    width: 60vw;
+    height: 55vh;
+    
+}
+
+footer {
+    color: white;
+    background-color: black;
+    /* height: 15vh; */
+
+
+
+.foot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3vh;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+
+}
+
+.foot ul li {
+    padding: 2vw;
+}
+
+.foot ul li a {
+    text-decoration: none;
+    color: blue;
+
+}
+.btn a{
+    text-decoration: none;
+    /* color: green; */
+}
+
+.sign form button{
+    background-color:#1798b4;
+    text-decoration: none;
+    color: white;
+}
+.logo{
+    height: fit-content;
+    width: 90vw;
+    padding: 0;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2vw;
+    
+}
+.courses{
+    text-align: center;
+}
+
+.aanya{
+    font-family: "fantasy";
+}
